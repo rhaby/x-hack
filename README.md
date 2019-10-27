@@ -5,8 +5,14 @@ you only need to create one file with a collection of passwords then enter the u
 
 # Installation:
  
- $ pkg update upgrade
+ $ pkg update 
+
+ $ pkg upgrade
+
+ $ pkg install git
+
  $ pkg install git python2
+
  $ git clone https://github.com/aliklof/x-hack.git
 
 # Setup:
@@ -18,5 +24,7 @@ you only need to create one file with a collection of passwords then enter the u
  $ python2 x-hack
 
 # Contact me:
+
 Telegram: @rhaby
+
 Instagram: @iqk56

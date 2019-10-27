@@ -7,7 +7,7 @@ you only need to create one file with a collection of passwords then enter the u
  
  $ pkg update upgrade
  $ pkg install git python2
-
+ $ git clone https://github.com/aliklof/x-hack.git
 
 # Setup:
 

@@ -17,3 +17,6 @@ you only need to create one file with a collection of passwords then enter the u
 
  $ python2 x-hack
 
+# Contact me:
+Telegram: @rhaby
+Instagram: @iqk56
